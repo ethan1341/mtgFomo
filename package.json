@@ -22,6 +22,7 @@
     "@angular/router": "^6.0.0",
     "core-js": "^2.5.4",
     "dot-env": "0.0.1",
+    "request": "^2.85.0",
     "rxjs": "^6.0.0",
     "zone.js": "^0.8.26"
   },
